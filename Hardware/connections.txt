@@ -1,0 +1,18 @@
+gsm
+YELLOW-> 10 (middle back)
+blue-> 9    (middle forward)
+blue-> vcc 
+cyan-> ground 
+LM35:
+RED-> GROUND
+WHITE->VCC
+ultrasonic:
+yello->trig 12
+blue->echo 13
+gps:(black marker)
+blue->0
+yellow->1
+white->vcc
+black ->ground
+gsm
+yello->10
